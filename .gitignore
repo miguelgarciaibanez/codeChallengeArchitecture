@@ -1,0 +1,10 @@
+#project dependencies
+.cache
+node_modules
+
+#build directory
+/build
+.DS_Store
+
+#env variables
+#.env
